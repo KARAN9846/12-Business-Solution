@@ -1,6 +1,6 @@
-# Project - 10
+# Project - 12
 
-### Interior Design
+### BUSINESS-SOLUTION
 
 ---
 
@@ -9,7 +9,7 @@
 
 
 
-This project was made entirely with HTML and CSS. content with text and image both. background image is definding the content of the page very well. This page also has a customizable navigation bar. Used media queries for responsive designe.
+This project was made entirely with HTML and CSS. This webpage have a step by step information about the product.About of sevices they provide are presented with each person small "about" information card.This page also has a customizable navigation bar. Used media queries for responsive designe.
 
 
 ---
@@ -17,10 +17,10 @@ This project was made entirely with HTML and CSS. content with text and image bo
 
 ## Learning Experience
 ---
-This project taught me how to add background with the respect of what seller want to give to their coustomer.
+This project taught me how to present so many images in content in a way that every information or content look's decent.
 
 ## How Much Time I Took To Finish This Project...? 
->I worked on this project for three (3) hours in total. Yes, there were learning and exploring as well as mistakes.
+>I worked on this project for four (4) hours in total. Yes, there were learning and exploring as well as mistakes.
 
 ---
 
@@ -33,13 +33,23 @@ This project taught me how to add background with the respect of what seller wan
 ## Screenshot 
 
 
-# [Live Link](https://tranquil-croissant-7d712b.netlify.app/)
+# [Live Link](https://cheery-snickerdoodle-5bf3c7.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
 ---
 
+![](./2.PNG)
+---
 
+---
+![](3.PNG)
+
+---
+![](./4.PNG)
+
+
+---
 >## Who Am I ?
 
 >My Name Is Karan I am A Learner Who is Interested in Sharing Knowledge About The Skills That I'm Developing to Become A Full-Stack Web Developer.
