@@ -140,8 +140,7 @@ button {
   font-size: 1.2rem;
   line-height: 1.7;
 }
-.img {
-}
+
 .img img {
   width: 600px;
 }
@@ -372,8 +371,7 @@ footer {
     font-size: 1.2rem;
     line-height: 1.7;
   }
-  .img {
-  }
+  
   .img img {
     width: 100%;
   }
@@ -456,9 +454,8 @@ footer {
     margin-top: 3rem;
     padding-bottom: 3rem;
   }
-
+  
   .footer-item {
     margin: 1.2rem 0;
     color: rgb(177, 177, 177);
   }
-
